@@ -1,0 +1,2 @@
+(this["webpackJsonphiro-bogger"]=this["webpackJsonphiro-bogger"]||[]).push([[4],{117:function(o,t,e){"use strict";e.r(t),t.default=e.p+"static/media/common-misconceptions-about-payment.9fde4d4b.md"}}]);
+//# sourceMappingURL=4.ed61b40c.chunk.js.map
