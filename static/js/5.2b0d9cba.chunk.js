@@ -1,2 +1,1 @@
 (this["webpackJsonphiro-bogger"]=this["webpackJsonphiro-bogger"]||[]).push([[5],{118:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/things-to-know-about-startup-business.02073e1a.md"}}]);
-//# sourceMappingURL=5.2b0d9cba.chunk.js.map
