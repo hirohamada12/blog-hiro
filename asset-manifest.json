@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cheat-somthing/static/css/main.ec99eda0.css",
-    "main.js": "/cheat-somthing/static/js/main.384742d3.js",
-    "static/js/787.f055211e.chunk.js": "/cheat-somthing/static/js/787.f055211e.chunk.js",
-    "index.html": "/cheat-somthing/index.html",
-    "static/media/logo.svg": "/cheat-somthing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "main.ec99eda0.css.map": "/cheat-somthing/static/css/main.ec99eda0.css.map",
-    "main.384742d3.js.map": "/cheat-somthing/static/js/main.384742d3.js.map",
-    "787.f055211e.chunk.js.map": "/cheat-somthing/static/js/787.f055211e.chunk.js.map"
+    "main.css": "/static/css/main.ec99eda0.css",
+    "main.js": "/static/js/main.384742d3.js",
+    "static/js/787.f055211e.chunk.js": "/static/js/787.f055211e.chunk.js",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.ec99eda0.css.map": "/static/css/main.ec99eda0.css.map",
+    "main.384742d3.js.map": "/static/js/main.384742d3.js.map",
+    "787.f055211e.chunk.js.map": "/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec99eda0.css",
